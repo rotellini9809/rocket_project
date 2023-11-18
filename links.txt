@@ -1,0 +1,9 @@
+KALMAN FILTER meh
+https://filterpy.readthedocs.io/en/latest/kalman/KalmanFilter.html
+AHRS
+https://ahrs.readthedocs.io/en/latest/index.html
+LORA tutorials
+https://www.micropeta.com/video7
+https://mischianti.org/ebyte-lora-e220-llcc68-device-for-arduino-esp32-or-esp8266-specs-and-basic-use-1/
+per far partire il python script a startup raspbery pi zero
+https://www.dexterindustries.com/howto/run-a-program-on-your-raspberry-pi-at-startup/
