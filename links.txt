@@ -17,3 +17,8 @@ https://www.dexterindustries.com/howto/run-a-program-on-your-raspberry-pi-at-sta
 
 sito vendita motori
 https://www.sierrafoxhobbies.com/it/
+
+
+bottoni su board
+https://it.aliexpress.com/item/4000700060759.html?spm=a2g0o.productlist.main.1.228caf44sOknph&algo_pvid=71b26a59-6aa8-4c7a-8687-7b82e6b899da&algo_exp_id=71b26a59-6aa8-4c7a-8687-7b82e6b899da-0&pdp_npi=4%40dis!EUR!2.74!0.46!!!2.93!0.49!%40212bfd8c17101895649997534e4c8c!12000022976360312!sea!IT!0!AB&curPageLogUid=xkZzDlebClaU&utparam-url=scene%3Asearch%7Cquery_from%3A
+https://it.aliexpress.com/item/1005003938856402.html?spm=a2g0o.productlist.main.9.132bmzVTmzVThw&algo_pvid=54406be5-7a9c-4fa5-b51f-b2f19d3e211d&aem_p4p_detail=202403111334412583596304543600006195598&algo_exp_id=54406be5-7a9c-4fa5-b51f-b2f19d3e211d-4&pdp_npi=4%40dis!EUR!2.53!0.46!!!2.70!0.49!%40212bfd8c17101892808067846e4c8c!12000027515454276!sea!IT!0!AB&curPageLogUid=iDWQWR7bu5Dp&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=202403111334412583596304543600006195598_1
