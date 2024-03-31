@@ -1,0 +1,31 @@
+Drill report for RocketBoard.kicad_pcb
+Created on 11/03/2024 23:01:10
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'RocketBoard.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0,762mm  0,0300"  (3 holes)
+    T2  0,800mm  0,0315"  (4 holes)
+    T3  0,900mm  0,0354"  (2 holes)
+    T4  0,950mm  0,0374"  (7 holes)
+    T5  1,000mm  0,0394"  (13 holes)
+    T6  1,016mm  0,0400"  (16 holes)
+    T7  1,020mm  0,0402"  (43 holes)
+    T8  1,100mm  0,0433"  (3 holes)
+
+    Total plated holes count 91
+
+
+Not plated through holes are merged with plated holes
+    unplated through holes:
+    =============================================================
+    T9  2,200mm  0,0866"  (3 holes)
+    T10  3,500mm  0,1378"  (1 hole)
+
+    Total unplated holes count 4

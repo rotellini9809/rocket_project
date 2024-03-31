@@ -1,0 +1,24 @@
+Drill report for RocketTX.kicad_pcb
+Created on 11/03/2024 23:12:37
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'RocketTX.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0,800mm  0,0315"  (14 holes)
+    T2  1,000mm  0,0394"  (43 holes)
+
+    Total plated holes count 57
+
+
+Not plated through holes are merged with plated holes
+    unplated through holes:
+    =============================================================
+    T3  2,500mm  0,0984"  (4 holes)
+
+    Total unplated holes count 4
