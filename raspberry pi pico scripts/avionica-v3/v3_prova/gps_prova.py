@@ -4,6 +4,7 @@ import busio
 
 import adafruit_gps
 
+print("started")
 uart = busio.UART(board.GP4, board.GP5, baudrate=9600, timeout=10)
 gps = adafruit_gps.GPS(uart, debug=False) 
 

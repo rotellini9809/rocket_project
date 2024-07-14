@@ -31,17 +31,18 @@ void setup() {
   // Startup all pins and UART
   e220ttl.begin();
  
-  //Serial.println("Hi, I'm going to send message!");
+  Serial.println("Hi, I'm going to send message!");
   // Send message
-  //ResponseStatus rs = e220ttl.sendMessage("Hello, world? fin");
+  ResponseStatus rs = e220ttl.sendMessage("Hello, world? fin");
   // Check If there is some problem of successfully send
-  //Serial.println(rs.getResponseDescription());
+  Serial.println(rs.getResponseDescription());
   
 }
  
 void loop() {
     // If something available
   if (e220ttl.available()>1) {
+    Serial.println("message received");
       // read the String message
     ResponseContainer rc = e220ttl.receiveMessage();
     // Is something goes wrong print error
