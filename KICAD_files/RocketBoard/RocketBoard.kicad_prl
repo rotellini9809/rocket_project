@@ -67,6 +67,12 @@
     "visible_layers": "807ff36_ffffffff",
     "zone_display_mode": 0
   },
+  "git": {
+    "repo_password": "",
+    "repo_type": "",
+    "repo_username": "",
+    "ssh_key": ""
+  },
   "meta": {
     "filename": "RocketBoard.kicad_prl",
     "version": 3
